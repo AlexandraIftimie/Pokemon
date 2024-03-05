@@ -10,7 +10,15 @@ Data Source: The data for this project was obtained from Kaggle: https://www.kag
 ![image](https://github.com/AlexandraIftimie/Pokemon/assets/132292637/8a362ca6-a75c-405f-a731-e1fca9a46dce)
 The image shows a graph that displays the type effectiveness of various Pokemon against a Water-type opponent. The x-axis lists different Pokemon types, while the y-axis shows a multiplier value. Higher values on the y-axis indicate greater effectiveness against a Water-type opponent. For example, the graph shows that Electric-type Pokemon have a multiplier of 2 against Water-type Pokemon, while Grass-type Pokemon have a multiplier of 0.5.
 
-The top right corner of the image displays the title "Finding the most effective Pokemon against a type WATER opponent".
+![image](https://github.com/AlexandraIftimie/Pokemon/assets/132292637/ab00abb0-cade-45c8-987b-066d0ff85f98)
+The image displays a table that shows various moves a Water-type Pokémon can learn. The table has columns for Category, Name, Effect, PP, Cat. and Namel.
+
+Category: This column specifies the category of the move, which can be either "Physical" or "Special."
+Name: This column lists the name of the move.
+Effect: This column describes the additional effect the move may have, such as lowering the opponent's Defense or having a high critical hit ratio.
+PP: This column shows the Power Points (PP) of the move, which indicates how many times the Pokémon can use the move before needing to recharge.
+Cat.: This column likely refers to the "Category" again but is abbreviated.
+Namel: This column might be a misspelling of "Name" and seems to repeat the move name.
 
 
 Limitations:
