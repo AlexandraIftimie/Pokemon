@@ -29,11 +29,8 @@ Effectiveness multiplier: A numerical value (e.g., 2.00) indicating how much mor
 Additional details: This could include Pokémon stats, types, or movesets, helping trainers make informed choices.
 By enabling users to explore effective counters, this Tableau function empowers them to build winning strategies against even the most formidable Dragon-type foes.
 
-The search allows filtering by effectiveness, and the user has selected “Super Effective.” The search results show Pokemon that are super effective against Gyarados, including:
-
-Electric-type Pokemon such as Raichu and Magnezone
-Rock-type Pokemon such as Golem and Regirock
-Ground-type Pokemon such as Donphan and Krookodile
+![image](https://github.com/AlexandraIftimie/Pokemon/assets/132292637/cc52cc26-dbf8-4733-bb47-98106d95a892)
+The visualization highlights Sylveon as super effective against Dragon-type Pokémon, likely due to the Fairy-type's advantage against Dragons. It mentions a multiplier value of 0.5000, which might indicate Sylveon deals double damage to Dragon-type opponents compared to neutral effectiveness.
 
 Limitations:
 
