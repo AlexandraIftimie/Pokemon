@@ -32,6 +32,21 @@ By enabling users to explore effective counters, this Tableau function empowers 
 ![image](https://github.com/AlexandraIftimie/Pokemon/assets/132292637/cc52cc26-dbf8-4733-bb47-98106d95a892)
 The visualization highlights Sylveon as super effective against Dragon-type Pokémon, likely due to the Fairy-type's advantage against Dragons. It mentions a multiplier value of 0.5000, which might indicate Sylveon deals double damage to Dragon-type opponents compared to neutral effectiveness.
 
+How do I find a Pokémon for a battle against a Gyarados? We search for Gyarados by name, observe its battle statistics; it is most affected by the Electric type.
+![image](https://github.com/AlexandraIftimie/Pokemon/assets/132292637/479c2972-a4d2-4694-8b17-00c7912561d0)
+
+We search for Gyarados's type, Water, and look at Electric-type Pokémon. There are Electric-type Pokémon with 100% resistance against the Water type: Helioptile and Heliolisk.
+![image](https://github.com/AlexandraIftimie/Pokemon/assets/132292637/b9ed395c-dea6-4026-a02d-54065d4a121e)
+
+It is observed that the two Pokémon have the same statistics, so the choice will be made based on other criteria, such as experience, level, HP value, or the Pokémon's abilities, or the trainer's preferences.
+![image](https://github.com/AlexandraIftimie/Pokemon/assets/132292637/99c577c7-2a87-41af-876b-c5e90af991f6)
+
+In the end, we have the moves that Electric-type Pokémon like Heliolisk and Helioptile can learn, sorted by damage and corresponding Power Points.
+![image](https://github.com/AlexandraIftimie/Pokemon/assets/132292637/b1c64ad4-c81b-462f-ac25-74af3bb72329)
+
+
+This interactive function, part of a larger analysis, allows you to explore various Pokémon and their effectiveness against specific types, empowering you to strategize and build winning teams.
+
 Limitations:
 
 It is important to acknowledge that the data used in this project may not have been entirely comprehensive. While Kaggle: https://www.kaggle.com is a valuable resource for open-source datasets, there is always the possibility of missing information or inconsistencies.
