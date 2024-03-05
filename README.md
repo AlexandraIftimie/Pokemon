@@ -20,6 +20,20 @@ PP: This column shows the Power Points (PP) of the move, which indicates how man
 Cat.: This column likely refers to the "Category" again but is abbreviated.
 Namel: This column might be a misspelling of "Name" and seems to repeat the move name.
 
+In one of the stories it will be presented how to find the most effective Pokemon for a battle:
+![image](https://github.com/AlexandraIftimie/Pokemon/assets/132292637/b627cac1-0c05-4de2-91ca-7f53bb641471)
+This Tableau visualization shows a story functionality, aiding trainers in strategizing against specific Pokémon types. In this view, the focus is on Dragon-type opponents.
+The visualization displays super effective Pokémon against Dragons. It also show additional information such as:
+
+Effectiveness multiplier: A numerical value (e.g., 2.00) indicating how much more damage these Pokémon deal to Dragons compared to neutral effectiveness.
+Additional details: This could include Pokémon stats, types, or movesets, helping trainers make informed choices.
+By enabling users to explore effective counters, this Tableau function empowers them to build winning strategies against even the most formidable Dragon-type foes.
+
+The search allows filtering by effectiveness, and the user has selected “Super Effective.” The search results show Pokemon that are super effective against Gyarados, including:
+
+Electric-type Pokemon such as Raichu and Magnezone
+Rock-type Pokemon such as Golem and Regirock
+Ground-type Pokemon such as Donphan and Krookodile
 
 Limitations:
 
