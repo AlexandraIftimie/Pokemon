@@ -30,7 +30,7 @@ Effectiveness multiplier: A numerical value (e.g., 0,500) indicating how much mo
 By enabling users to explore effective counters, this Tableau function empowers them to build winning strategies against even the most formidable Dragon-type foes.
 
 ![image](https://github.com/AlexandraIftimie/Pokemon/assets/132292637/cc52cc26-dbf8-4733-bb47-98106d95a892)
-The visualization highlights Sylveon as super effective against Dragon-type Pokémon, likely due to the Fairy-type's advantage against Dragons. It mentions a multiplier value of 0.000, which indicate Sylveon Sylveon is immune to Dragon-type attacks.
+The visualization highlights Sylveon as super effective against Dragon-type Pokémon, likely due to the Fairy-type's advantage against Dragons. It mentions a multiplier value of 0.000, which indicate Sylveon is immune to Dragon-type attacks.
 
 How do I find a Pokémon for a battle against a Gyarados? We search for Gyarados by name, observe its battle statistics; it is most affected by the Electric type.
 ![image](https://github.com/AlexandraIftimie/Pokemon/assets/132292637/479c2972-a4d2-4694-8b17-00c7912561d0)
